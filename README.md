@@ -3,10 +3,9 @@
 Mechanistic modeling of Lyme disease in Maryland under current and projected climate scenarios.
 
 ## 📁 Project Contents
-- **`codes/`** – R scripts  
-  (`model_fitting.R`, `spatial_maps.R`, `climate_scenarios.R`)
+- `codes/` contains R scripts for this study
 - **`data/`** – Input datasets  
-  (case reports, temperature records, county boundaries, population estimates) 
+  (case reports, temperature records, county boundaries, population data) 
 
 ## Install required packages once
 install.packages(c("deSolve","ggplot2","dplyr","patchwork","sf","tigris",
