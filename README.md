@@ -26,7 +26,7 @@ install.packages(c("deSolve","ggplot2","dplyr","patchwork","sf","tigris",
 - Couper LI, MacDonald AJ, Mordecai EA. *Impact of prior and projected climate change on US Lyme disease incidence*. Glob Change Biol. 2021;27(4):738–754.
 - Bayoh MN, Thomas CJ, Lindsay SW. *Mapping distributions of chromosomal forms of Anopheles gambiae in West Africa using climate data*. Med Vet Entomol. 2001;15(3):267–74.
 
-### Mathematical Modeling of Vector-Borne Diseases
+### Mathematical Modeling of Climate Change and Vector-Borne Disease Dynamics
 - Eikenberry SE, Gumel AB. *Mathematics of malaria and climate change*. In: Mathematics of Planet Earth: Protecting Our Planet, Learning from the Past, Safeguarding for the Future. Cham: Springer International Publishing; 2019. pp. 77-108.
 - Okuneye K, Eikenberry SE, Gumel AB. *Weather-driven malaria transmission model with gonotrophic and sporogonic cycles*. J Biol Dyn. 2019;13(sup1):288-324.
 - Okuneye K, Gumel AB. *Analysis of a temperature-and rainfall-dependent model for malaria transmission dynamics*. Math Biosci. 2017 May;287:72-92.
